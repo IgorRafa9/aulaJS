@@ -17,7 +17,7 @@ function trocar(elemento){
 
 function voltar(elemento){
     document.getElementById("mousemove").innerHTML = "Passe o mouse aqui"
-    elemento.innerHTML = "Passe o mouse aqui"
+    elemento.innerHTML = "Passe o mouse aqui";
 }
 /*function soma(n1, n2){
     return n1+n2;
